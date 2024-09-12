@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains a project for a Grammar and Spell Checker application that leverages machine learning techniques to analyze and correct text. The application aims to enhance the quality of written content by identifying and suggesting corrections for grammatical errors and misspellings.
+This is a project for a Grammar and Spell Checker application that leverages machine learning techniques to analyze and correct text. The application aims to enhance the quality of written content by identifying and suggesting corrections for grammatical errors and misspellings.
 
 ## Features
 
